@@ -1,5 +1,5 @@
-start client side 
+to start the client side type :
 npm run dev
 
-start the server side 
+to start the server side type: 
 npm start
